@@ -14,3 +14,10 @@ It uses natural language processing (NLP) and classification models to analyze t
   Scikit-learn
   Pandas, NumPy
   NLP (TF-IDF, stopwords, etc.)
+
+📁 Dataset
+
+This project uses the [Fake and Real News Dataset](https://drive.google.com/drive/folders/1Iuea268hnhzyur__5lOeDJCWPnabDmFG?usp=sharing).
+
+Please download and upload it to Colab or mount your Drive before running the notebook.
+
